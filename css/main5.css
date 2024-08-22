@@ -1,0 +1,41 @@
+.res{
+    width: 500px;
+    height: 120px;
+}
+.bth{
+    width: 145px;
+    height: 20px;
+    margin-left: 10px;
+}
+.ghj{
+    float: left;
+}
+.ghj1{
+    margin-top: 2px;
+    width: 10px;
+}
+.fight{
+    width: 145px;
+    height: 40px;
+    margin-left: 10px;
+}
+.jik{
+    width: 125px;
+    height: 30px;
+    margin-left: -25px;
+}
+.kick{
+    width: 420px;
+    margin-left: 30px;
+}
+.oppo{
+    margin-top: 70px;
+    position: absolute;
+    margin-left: -210px;
+}
+.hah{
+    height: 700px;
+}
+.hdr{
+    text-align: center;
+}
